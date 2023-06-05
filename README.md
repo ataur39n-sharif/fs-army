@@ -6,14 +6,14 @@ This API can accept a string as an argument and return an object containing the 
 
 ## API Reference
 
-```http
+```
   URL => https://careful-ray-capris.cyclic.app/api/v1
 ```
 
 
 #### Get all items
 
-```http
+```
   GET /count?word=
 ```
 
